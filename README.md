@@ -4,11 +4,11 @@ as a requirement for Data Science course
 
 --
 
-### Made and developed by [Michael Berlian](https://www.github.com/michaelberlian) and Marco Melvern
+#### Made and developed by [Michael Berlian](https://www.github.com/michaelberlian) and Marco Melvern
 
-### Dataset was taken from [here](https://www.kaggle.com/spscientist/students-performance-in-exams) courtesy of Jakki Seshapanpu
+#### Dataset was taken from [here](https://www.kaggle.com/spscientist/students-performance-in-exams) courtesy of Jakki Seshapanpu
 
-### The final report can be accessed by clicking [this link](https://docs.google.com/document/d/1GIm4mVpLU6RpDowKss-Txis_mWjLF8jg7rFTiYVaxDM/edit?usp=sharing)
+#### The final report can be accessed by clicking [this link](https://docs.google.com/document/d/1GIm4mVpLU6RpDowKss-Txis_mWjLF8jg7rFTiYVaxDM/edit?usp=sharing)
 
 # At a glance
 
